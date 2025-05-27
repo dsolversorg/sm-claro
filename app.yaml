@@ -9,13 +9,13 @@ manual_scaling:
   instances: 1
 
 handlers:
-  - url: /sm-ferring/static
-    static_dir: build/sm-ferring/static
+  - url: /sm-claro/static
+    static_dir: build/sm-claro/static
 
   - url: /(.*\.(json|ico|js))$
     static_files: build/\1
     upload: build/.*\.(json|ico|js)$
 
   - url: .*
-    static_files: build/sm-ferring/index.html
-    upload: build/sm-ferring/index.html
+    static_files: build/sm-claro/index.html
+    upload: build/sm-claro/index.html
