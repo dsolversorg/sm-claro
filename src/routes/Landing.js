@@ -48,14 +48,14 @@ function Landing({ className }) {
             <div className="col-12 col-lg-6">
               <div className="row" style={{ marginBottom: '9px' }}>
                 <div>
-                  <h1 className="fw-bol">Sou o João uma Pessoa Digital Hiper-realista, criado pela Digital Solvers, com o propósito de esclarecer suas dúvidas.</h1>
+                  <h1 className="fw-bol">Sou o a Clara uma Pessoa Digital Hiper-realista, criado pela Digital Solvers, com o propósito de esclarecer suas dúvidas.</h1>
                 </div>
               </div>
               <div className="row">
                 <div>
                   <h4 className="fw-light" style={{ marginBottom: '31px' }}>
                     Sou especialista em
-                    <b> Câncer</b>
+                    <b> vendas da Claro</b>
                     ,
                     faça-me uma pergunta e farei o meu melhor para respondê-la.
                   </h4>
